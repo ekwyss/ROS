@@ -1,0 +1,8 @@
+prefix=/home/eric/catkin_ws/devel
+
+Name: miRobot
+Description: Description of miRobot
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/eric/catkin_ws/devel/lib 
+Requires: 
